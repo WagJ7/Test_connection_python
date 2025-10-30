@@ -101,4 +101,5 @@ Caso apareça o erro OSError: [WinError 10051], ele indica que a rede está temp
 O banco é atualizado automaticamente, não é necessário reiniciar o dashboard.
 
 
+Desenvolvido com 💀 por Wagner Silvestre!
 
