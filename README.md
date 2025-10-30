@@ -99,3 +99,7 @@ Gráficos de histórico de latência e velocidade
 Caso apareça o erro OSError: [WinError 10051], ele indica que a rede está temporariamente inacessível (o app continuará tentando novamente).
 
 O banco é atualizado automaticamente, não é necessário reiniciar o dashboard.
+
+
+Desenvolvido com 💀 por Wagner Silvestre!
+
