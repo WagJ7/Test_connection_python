@@ -32,7 +32,7 @@ Um sistema simples e eficiente para **monitoramento de conexão de rede** com hi
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/seuusuario/network-monitor.git
+   git clone https://github.com/seuusuario/Test_connection_python.git
    cd network-monitor
 Crie e ative o ambiente virtual
 
@@ -102,4 +102,5 @@ O banco é atualizado automaticamente, não é necessário reiniciar o dashboard
 
 
 Desenvolvido com 💀 por Wagner Silvestre!
+
 
